@@ -1,7 +1,7 @@
 ### Hello guys 👋
 
 <!--
-**kwejauweysu/kwejauweysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kwejauweysu/kwejauweysu** is a programming learner.
 
 Here are some ideas to get you started:
 
